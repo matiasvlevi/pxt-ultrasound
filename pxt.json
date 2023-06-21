@@ -1,6 +1,6 @@
 {
     "name": "vector",
-    "description": "",
+    "description": "Vector Data type",
     "dependencies": {
         "core": "*"
     },
