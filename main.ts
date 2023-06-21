@@ -37,7 +37,3 @@ namespace Vector {
         return { x, y };
     }
 }
-
-basic.forever(function () {
-	
-})
