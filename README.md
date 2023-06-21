@@ -8,10 +8,12 @@ Adds the Vector Data type
 
 # Example
 
-The vector datatype is converted to a string when sent over radio.
+The vector datatype is converted to a string whenever it is used as one.
 This allow you to send 2 number values over radio (or serial) without using string manipulation blocks.
 
 ![example](./assets/example.png)
+
+A vector is still an object instance, the `toString` method is overriden to allow the string cast behavior
 
 ### More blocks
 
