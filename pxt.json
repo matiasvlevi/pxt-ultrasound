@@ -6,7 +6,11 @@
     },
     "files": [
         "vector.ts",
-        "README.md"
+        "README.md",
+        "_locales/en/vector-strings.json",
+        "_locales/en/vector-jsdoc-strings.json",
+        "_locales/fr/vector-strings.json",
+        "_locales/fr/vector-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

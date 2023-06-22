@@ -1,0 +1,6 @@
+{
+  "Vector.Vector2": "Vector Data Type\n* les valeurs du vecteur sont storées dans une liste, ce qui nous permet de les indexer avec\n le enum Vector2Components",
+  "Vector.Vector2.toString": "toString @override\n* la méthode est utilisée automatiquement quand \nle vecteur est utilisée en tant que string",
+  "Vector.Vector2Components": "Composantes d'un vecteur",
+  "Vector.add": "--- MATH ---"
+}
