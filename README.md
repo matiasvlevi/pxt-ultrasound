@@ -8,16 +8,11 @@ Adds the Vector Data type
 
 <br/>
 
-# Problem this extention solves
+## Key Features:
 
-I wanted to send vectors (or tuples) over radio or serial in makecode.
-The radio and serial only allows for `number`, `key value` and `string` to be sent.
+- Vector to string conversions: Simplify the process of sending data over radio or serial channels by automatically converting vectors into strings.
 
-I couldn't get 1 radio recieve event to handle a 2 value pair.
-
-The vector data type handles the conversions from vector to string automatically, so you can send values over radio.
-
-It also includes utilities for vector math.
+- Vector math utilities: Perform various operations on vectors like addition, subtraction, multiplication, and more with the built-in math functions.
 
 <br/>
 
