@@ -1,4 +1,4 @@
-> Open this page at [https://matiasvlevi.github.io/vector_microbit/](https://matiasvlevi.github.io/vector_microbit/)
+> Open this page at [https://matiasvlevi.github.io/pxt-vectors/](https://matiasvlevi.github.io/pxt-vectors/)
 
 # Makecode Vector Data Type
 
@@ -58,4 +58,4 @@ This repository can be added as an **extension** in MakeCode.
 - open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 - click on **New Project**
 - click on **Extensions** under the gearwheel menu
-- search for **https://github.com/matiasvlevi/vector_microbit** and import
+- search for **https://github.com/matiasvlevi/pxt-vectors** and import
