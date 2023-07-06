@@ -81,7 +81,7 @@ namespace Vector
         }
     }
 
-    //% block="%k from vector %v"
+    //% block="%v %k"
     export function get(
         k: Vector2Components,
         v: Vector2 | string): number
