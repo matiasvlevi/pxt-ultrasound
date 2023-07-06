@@ -1,5 +1,6 @@
 {
     "name": "vector",
+    "version": "1.0.1",
     "description": "Vector Data Type & Utilities",
     "dependencies": {
         "core": "*"
