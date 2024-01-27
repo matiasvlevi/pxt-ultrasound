@@ -1,17 +1,15 @@
 {
-    "name": "vector",
-    "version": "1.0.1",
-    "description": "Vector Data Type & Utilities",
+    "name": "ultrasound",
+    "version": "0.0.1",
+    "description": "Ultrasound for HC-SR04",
     "dependencies": {
         "core": "*"
     },
     "files": [
-        "vector.ts",
+        "ultrasound.ts",
         "README.md",
-        "_locales/en/vector-strings.json",
-        "_locales/en/vector-jsdoc-strings.json",
-        "_locales/fr/vector-strings.json",
-        "_locales/fr/vector-jsdoc-strings.json"
+        "_locales/en/ultrasound-strings.json",
+        "_locales/en/ultrasound-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
